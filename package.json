@@ -8,6 +8,7 @@
   "author": "foondook <foondook@gmail.com>",
   "private": true,
   "scripts": {
+    "build": "quasar build",
     "lint": "eslint --ext .js,.vue src",
     "test": "echo \"No test specified\" && exit 0"
   },
